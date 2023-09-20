@@ -1,2 +1,6 @@
 - come up with a nice way to share bug reproductions fast
   - automate it fully, create repro, press button, share link
+- setup a system where I can easily make a folder into [StackBlitz](https://stackblitz.com/) link
+    - so I can share reproduction snapshots easily to share bugs etc.
+    - have StackBlitz be real time updated to state of the folder in GitHub
+- setup nice repro environments for rust/ts/solid/..
