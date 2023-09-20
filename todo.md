@@ -1,0 +1,2 @@
+- come up with a nice way to share bug reproductions fast
+  - automate it fully, create repro, press button, share link
